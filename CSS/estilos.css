@@ -1,0 +1,12 @@
+main{
+    padding: 2rem;
+    padding-right: 10rem;
+    padding-left: 10rem;
+}
+
+.Mensaje{
+    border-width: 2px;
+    border-style: solid;
+    border-color: skyblue;
+    border-radius: 10px;
+}
